@@ -1,0 +1,27 @@
+.new{
+    border: 5px solid black;
+}
+.old{
+    display: flex; 
+    align-items: center;
+     justify-content: center;
+     flex-direction: column;
+}
+
+
+.container{
+     width: 75vw;
+}
+
+
+body{
+    display: flex;
+    justify-content: center; 
+}
+.myclass{
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+}
